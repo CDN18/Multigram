@@ -1,7 +1,7 @@
 # Multigram
 A third-party build of Telegram Desktop, which remains exactly the same as the official client except raising the limit of number of accounts.
 
-- **Current Version** : `v4.6.2 - dev#e874898`
+- **Current Version** : `v3.7.0`
 
 ## Changes from the official client
 - Raised the maximum number of accounts from 3 to 100.
