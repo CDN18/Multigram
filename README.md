@@ -1,6 +1,8 @@
 # Multigram
 A third-party build of [Telegram Apps](https://telegram.org/apps), which remains exactly the same as the official client except raising the limit of number of accounts.
 
+This third-party client is built mainly for personal use, so currently only Windows clients are (not very actively) being built and maintained to get synced with offcial client. Send an issue if you need builds of othre platforms or updates for Windows clients.
+
 ## Current Version
 |Upstream Project|Latest Build|Next Build(Expected)|
 |---|---|---|
@@ -23,8 +25,6 @@ A third-party build of [Telegram Apps](https://telegram.org/apps), which remains
 |Linux|✅|amd64|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|
 |Android|✅|arm64/x86_64/x86|[Telegram Android](https://github.com/DrKLO/Telegram)|
 |iOS|-| | |
-
-This third-party client is built mainly for personal use, so currently only Windows clients are (not very actively) being built and maintained to get synced with offcial client. Send an issue if you need builds of othre platforms or updates for Windows clients.
 
 ## Other third-party clients that support multiple accounts
 
