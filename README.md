@@ -1,20 +1,28 @@
 # Multigram
-A third-party build of Telegram Desktop, which remains exactly the same as the official client except raising the limit of number of accounts.
+A third-party build of [Telegram Apps](https://telegram.org/apps), which remains exactly the same as the official client except raising the limit of number of accounts.
 
-- **Current Version** : `v3.7.0`
+## Current Version
+|Upstream Project|Latest Build|Next Build(Expected)|
+|---|---|---|
+|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v3.7.1`|`v3.8.x`|
+|[Telegram Android](https://github.com/DrKLO/Telegram)|`v8.7.2`|`v8.8.x`|
+|[Telegram Swift](https://github.com/overtake/TelegramSwift)|`❌Build Failed`|`---`|
 
 ## Changes from the official client
-- Raised the maximum number of accounts from 3 to 100.
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop): Raised the maximum number of accounts from 3 to 100.
+- [Telegram Android](https://github.com/DrKLO/Telegram): Raised the maximum number of accounts from 3 to 16.
 
 ## Screenshot
 ![Screenshot](./img/screenshot1.png)
 
 ## Platform Support
-- [x] Windows
-- [ ] MacOS
-- [ ] Linux
-- [ ] Android
-- [ ] iOS
+|OS|Status|Supported Arch|Upstream Project|
+|---|---|---|---|
+|Windows|✅|amd64|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|
+|macOS|✅|x64|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|
+|Linux|✅|amd64|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|
+|Android|✅|arm64/x86_64/x86|[Telegram Android](https://github.com/DrKLO/Telegram)|
+|iOS|-| | |
 
 This third-party client is built mainly for personal use, so currently only Windows clients are (not very actively) being built and maintained to get synced with offcial client. Send an issue if you need builds of othre platforms or updates for Windows clients.
 
