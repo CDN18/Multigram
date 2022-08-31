@@ -5,10 +5,11 @@ A third-party build of [Telegram Apps](https://telegram.org/apps), which remains
 The app you will download is UNOFFICIAL. If you encountered bugs while using, submit an issue in this repo. Do not bother the official devs unless you successfully reproduced the bug in Telegram official apps.
 
 ## Current Version
+**NOTICE: Telegram desktop's recent change results in building faliure using default config. So I'll skip this build cycle and attempt to build again when next version is out.**
 |Upstream Project|Latest Build|Next Build(Expected)|
 |---|---|---|
-|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.0.2`|`v4.1.x`|
-|[Telegram Android](https://github.com/DrKLO/Telegram)|`v8.8.2`|`v8.9.x`|
+|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.0.2`|`v4.2.x`|
+|[Telegram Android](https://github.com/DrKLO/Telegram)|`v8.8.2`|`v8.10.x / v9.0.x`|
 |[Unigram](https://github.com/UnigramDev/Unigram)|`❌Build Failed`|`---`|
 
 ## Changes from the official client
