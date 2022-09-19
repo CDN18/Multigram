@@ -6,10 +6,11 @@ The app you will download is UNOFFICIAL. If you encountered bugs while using, su
 
 ## Current Version
 **NOTICE: Telegram desktop's recent change results in building faliure using default config. So I'll skip this build cycle and attempt to build again when next version is out.**
+** And after doing multiple attempts and getting thousands of errors with the exact same set-up, the build has to be delayed to the next cycle. I believe it's not my fault. **
 |Upstream Project|Latest Build|Next Build(Expected)|
 |---|---|---|
-|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.0.2`|`v4.2.x`|
-|[Telegram Android](https://github.com/DrKLO/Telegram)|`v8.8.2`|`v8.10.x / v9.0.x`|
+|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.0.2`|`v4.3.x`|
+|[Telegram Android](https://github.com/DrKLO/Telegram)|`v8.8.2`|`v8.10.x / v9.1.x`|
 |[Unigram](https://github.com/UnigramDev/Unigram)|`❌Build Failed`|`---`|
 
 ## Changes from the official client
