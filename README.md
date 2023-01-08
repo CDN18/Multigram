@@ -9,8 +9,8 @@ The app you will download is UNOFFICIAL. If you encountered bugs while using, su
 ** And after doing multiple attempts and getting thousands of errors with the exact same set-up, the build has to be delayed to the next cycle. I believe it's not my fault. **
 |Upstream Project|Latest Build|Next Build(Expected)|
 |---|---|---|
-|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.3.1`|`v4.4.x`|
-|[Telegram Android](https://github.com/DrKLO/Telegram)|`v9.1.2`|`v9.2.x`|
+|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.5.2`|`v4.7.x`|
+|[Telegram Android](https://github.com/DrKLO/Telegram)|`v9.3.3`|`v9.5.x`|
 |[Unigram](https://github.com/UnigramDev/Unigram)|`❌Build Failed`|`---`|
 
 ## Changes from the official client
