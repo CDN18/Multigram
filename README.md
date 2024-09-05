@@ -7,8 +7,8 @@ The app you will download is UNOFFICIAL. If you encountered bugs while using, su
 ## Current Version
 |Upstream Project|Latest Build|Next Build(Expected)|
 |---|---|---|
-|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v4.12.2`|`v4.14.x`|
-|[Telegram Android](https://github.com/DrKLO/Telegram)|`v10.3.2`|`v10.5.x`|
+|[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)|`v5.4.5`|`v5.5.x`|
+|[Telegram Android](https://github.com/DrKLO/Telegram)|`v11.0.0`|`v11.1.x`|
 |[Unigram](https://github.com/UnigramDev/Unigram)|`❌Build Failed`|`---`|
 
 ## Changes from the official client
